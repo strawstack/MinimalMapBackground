@@ -1,0 +1,48 @@
+html, body{
+    margin:  0px;
+    padding: 0px;
+    overscroll-behavior: none;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    font-size: 1.1rem;
+}
+#map {
+    width: 100vw;
+    height: 100vh;
+    position: fixed !important;
+    z-index: -10;
+}
+.map-overlay {
+    position: fixed;
+    top: 0px; right: 0px; bottom: 0px; left: 0px;
+    z-index: -5;
+}
+.content-grid {
+    display: grid;
+    position: absolute;
+    left: 0px; right: 0px;
+    grid-template-columns: 1fr minmax(0px, 800px) 1fr;
+    margin: 10px 0px 10px 0px;
+    z-index: 0;
+}
+.content-container {
+    position: relative;
+    grid-column: 2 / 3;
+}
+.container-background {
+    position: absolute;
+    top: 0px; right: 0px; bottom: 0px; left: 0px;
+    border-radius: 4px;
+}
+.site-content {
+    position: relative;
+    padding: 10px;
+}
+
+.site-content>h1 {
+    display: flex;
+    justify-content: center;
+}
+.site-content>p {
+    text-align: justify;
+}
