@@ -18,6 +18,10 @@ Helping you get random minimal maps to display as the background of your website
 
 1. Add HTML code inside the `div` with class `site-content`
 
-# Changing the Style of the Site
+# Changing Site Style
 
 1. Edit the style properties inside the `style` tag of the `index.html` document
+
+# Change Map Style
+
+1. Create a style using the [Google Map Styling Wizard](https://mapstyle.withgoogle.com/) 
