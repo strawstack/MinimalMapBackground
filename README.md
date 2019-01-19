@@ -27,3 +27,7 @@ Helping you get random minimal maps to display as the background of your website
 # Change Map Style
 
 1. Create a style using the [Google Map Styling Wizard](https://mapstyle.withgoogle.com/) 
+
+2. Paste the resulting JSON object into the `map-styles.js` file 
+
+3. Add the name of the JSON object to the index.html file following the current style as a template
