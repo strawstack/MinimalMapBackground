@@ -2,7 +2,7 @@
 
 Helping you get random minimal maps to display as the background of your website
 
-(View Live Demo)[https://strawstack.github.io/MinimalMapBackground/index.html]
+[View Live Demo)](https://strawstack.github.io/MinimalMapBackground/index.html)
 
 # How to Use
 
