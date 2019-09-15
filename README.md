@@ -31,3 +31,7 @@ Helping you get random minimal maps to display as the background of your website
 2. Paste the resulting JSON object into the `map-styles.js` file 
 
 3. Add the name of the JSON object to the index.html file following the current style as a template
+
+# Screenshot
+
+![](./scrreenshot.png)
