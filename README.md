@@ -10,11 +10,9 @@ Helping you get random minimal maps to display as the background of your website
 
 2. Copy `template.html` to a new file titled `index.html`
 
-3. With `index.html` do the following:
+3. Replace `YOUR_API_KEY` with your API key. Get an API key [here](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
-4. Replace `YOUR_API_KEY` with your API key. Get an API key [here](https://developers.google.com/maps/documentation/javascript/get-api-key)
-
-5. Open `index.html` with a web browser
+4. Open `index.html` with a web browser
 
 # Adding Content to the Site
 
