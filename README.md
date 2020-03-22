@@ -2,6 +2,8 @@
 
 Helping you get random minimal maps to display as the background of your website
 
+# Live Demo
+
 [View Live Demo](https://strawstack.github.io/MinimalMapBackground/index.html)
 
 # How to Use
